@@ -19,4 +19,6 @@ git clone --recurse-submodules https://github.com/trolleway/wikipedia-rail-maps.
 ### Update
 ```
 git pull --recurse-submodules
+or
+git submodule update --remote --merge
 ```
